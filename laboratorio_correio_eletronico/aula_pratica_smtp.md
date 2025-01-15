@@ -97,14 +97,3 @@ swaks --to destinatario@ifpi.edu.br --from remetente@ifpi.edu.br \
   --server smtp.gmail.com --port 587 --auth LOGIN \
   --auth-user remetente@ifpi.edu.br --auth-password "sua senha gerada no app google" --tls
 ```
-
-
-### Configuração e testes do professor:
-
-```bash
-    google_app: flcb wnnd kcop xoop
-
-    hash: AGRjb3JkZWlyby5vbGl2ZWlyYUBnbWFpbC5jb20AZmxjYiB3bm5kIGtjb3AgeG9vcA==
-
-    e-mail_temporário_teste: https://www.invertexto.com/gerador-email-temporario
-```
