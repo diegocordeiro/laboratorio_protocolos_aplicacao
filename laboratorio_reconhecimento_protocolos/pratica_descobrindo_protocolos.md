@@ -46,10 +46,6 @@ Observar em tempo real os protocolos da camada de aplicação funcionando no com
 ---
 
 ### ✍️ Atividade
-| Item observado | Protocolo | Porta padrão | Observações |
-|----------------|-----------|---------------|-------------|
-| Site acessado  | HTTP      | 80            |             |
-| Site seguro    | HTTPS     | 443           |             |
-| Resolução de nome | DNS    | 53            |             |
+| Item observado: XXXX | Protocolo: YYY | Porta padrão: ZZZ | Observações: |
 
 ---
