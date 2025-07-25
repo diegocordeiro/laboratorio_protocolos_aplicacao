@@ -41,4 +41,9 @@ Observar em tempo real os protocolos da camada de aplicação funcionando no com
 
 
 ## ✍️ Atividade
-| Item observado: XXXX | Protocolo: YYY | Porta padrão: ZZZ | Observações: |
+| Item observado | Protocolo | Porta padrão | Observações |
+|----------------|-----------|---------------|-------------|
+| Site acessado  | ZZZZ      | ZZ           |             |
+| Site seguro    | YYYYY     | YYY          |             |
+| Resolução de nome | UUU    | UUU           |             |
+
