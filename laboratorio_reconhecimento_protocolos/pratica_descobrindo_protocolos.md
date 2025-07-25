@@ -41,7 +41,9 @@ Observar em tempo real os protocolos da camada de aplicação funcionando no com
 
 
 ## ✍️ Atividade
-| Item observado | Protocolo | Porta padrão | Observações |
+Com base nos experimentos anteriores realize uma análise dos pacotes capturados pela ferramenta Wireshark e preencha a tabela a seguir.
+
+| Item observado | Protocolo | Porta padrão | Características do protocolo |
 |----------------|-----------|---------------|-------------|
 | Site acessado  | ZZZZ      | ZZ           |             |
 | Site seguro    | YYYYY     | YYY          |             |
