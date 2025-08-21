@@ -18,7 +18,7 @@ Observar em tempo real os protocolos da camada de aplicação funcionando no com
    - Clique no botão **Start Capturing Packets** (ícone do tubarão).
 
 3. **Acessar um site no navegador**
-   - Exemplo: `https://aulas-diegocordeiro.duckdns.org`
+   - Exemplo: `https://professordiegocordeiro.com.br`
    - Tente também: `http://example.com`
 
 4. **Aplicar filtros no Wireshark**
