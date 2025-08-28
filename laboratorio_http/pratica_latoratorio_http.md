@@ -135,7 +135,7 @@ sudo systemctl restart apache2
 **2.** Modifique o arquivo `index.html` para incluir:
 
 * Um botão que leve ao site do Apache:
-  👉 [https://httpd.apache.org](https://httpd.apache.org)
+  [https://httpd.apache.org](https://httpd.apache.org)
 
 Exemplo de código:
 
