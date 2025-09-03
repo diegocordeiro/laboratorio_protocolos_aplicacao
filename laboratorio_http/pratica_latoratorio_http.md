@@ -119,7 +119,7 @@ sudo systemctl restart apache2
 
 ---
 
-## Prova Prática:
+## Atividade Prática Avaliativa:
 
 **1.** Após criar a página `index.html` e acessar pelo navegador, abra as **Ferramentas de Desenvolvedor (F12 → Aba Rede)**.
 
