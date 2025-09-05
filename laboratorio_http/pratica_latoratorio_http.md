@@ -66,7 +66,7 @@ Salve o arquivo dentro da pasta `htdocs`.
 <body class="bg-dark text-white">
 
   <div class="container text-center py-5">
-    <div class="card shadow-lg p-4 bg-gradient rounded-4" style="background: linear-gradient(135deg, #007bff, #6610f2);">
+    <div class="card shadow-lg p-4 bg-gradient rounded-4" style="background:#fff;">
       <h1 class="display-4 fw-bold text-warning">Olá, seja bem-vindo!</h1>
       <p class="lead mt-3">
         Esta é a disciplina de <strong>Protocolos de Aplicação</strong>.
@@ -74,7 +74,7 @@ Salve o arquivo dentro da pasta `htdocs`.
       <p>
         Você está vendo, na prática, os conceitos discutidos em sala sobre o protocolo <strong>HTTP</strong> e servidores Web.
       </p>
-      <a href="#" class="btn btn-lg btn-light mt-3">Explorar Mais</a>
+      <a href="https://professordiegocordeiro.com.br/tema/protocolo-de-aplicacao" class="btn btn-lg btn-warning mt-3">Explorar Mais</a>
     </div>
   </div>
 
